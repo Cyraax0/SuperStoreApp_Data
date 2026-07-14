@@ -174,7 +174,7 @@ try:
     
         )
 
-        
+
         # chart
     with ship_col:
         st.write("Operational Performace")
